@@ -1,1 +1,1 @@
-# PICKit2_Clone
+# PICKit2 Clone
